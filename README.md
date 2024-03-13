@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nob101
 - 👀 I’m interested in learning everything
 - 🌱 I’m currently learning coding, creating, (Python, JS)
-- 💞️ I’m looking to collaborate on others? I don't know
+- 💞️ I’m looking to collaborate with others? I don't know (°_°)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Chuck Norris is my Grandma
