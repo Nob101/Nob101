@@ -20,7 +20,7 @@
     <td>
       <strong>CS50's Introduction to Computer Science</strong><br>
       Harvard University (via edX) • 2025<br>
-      <a href="./assets/cs50_certificate.pdf">
+      <a href="./assets/CS50x_certificate.pdf">
         <img src="https://img.shields.io/badge/Zertifikat-Verifiziert-red?style=flat-square&logo=harvard&logoColor=white" alt="CS50 Certificate">
       </a>
     </td>
