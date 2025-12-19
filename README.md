@@ -43,7 +43,7 @@
 </table>
 
 
-[!TIP]
+[!Note]
 > **Schwerpunkte des Kurses:** C, Python, SQL (SQLite), Algorithmen, Datenstrukturen und Web-Entwicklung mit Flask/Node.js.
 > **Kombinierte Expertise:** Fundierte Kenntnisse in der Softwareentwicklung (CS50) gepaart mit einem tiefen Verständnis für Netzwerkarchitektur, Protokolle (TCP/IP) und IT-Infrastruktur (CCNA).
 <!---
