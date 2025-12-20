@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with others? I don't know (°_°)
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Chuck Norris is my Grandma
+- ⚡ Fun fact: 
 
 
 ### 📜 Zertifizierungen
@@ -16,7 +16,7 @@
   
   <tr>
     <td width="100px" align="center">
-     <img src="https://www.vectorlogo.zone/logos/harvard/harvard-icon.svg" width="60" alt="Harvard Logo">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Harvard_University_logo.svg">
     </td>
     <td>
       <strong>CS50's Introduction to Computer Science</strong><br>
