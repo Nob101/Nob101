@@ -16,7 +16,7 @@
   
   <tr>
     <td width="100px" align="center">
-      <img src="https://www.vectorlogo.zone/logos/harvard/harvard-tile.svg" width="60" alt="Harvard Logo">
+      <img src="https://raw.githubusercontent.com/alohe/logos/master/harvard/harvard.png" width="60" alt="Harvard Logo">
     </td>
     <td>
       <strong>CS50's Introduction to Computer Science</strong><br>
