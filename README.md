@@ -44,7 +44,7 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 <table>
 
   <tr>
-    <td width="100px" align="center" bgcolor="white">
+    <td width="100px" align="center">
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/150px-Harvard_University_logo.png" width="70" alt="Harvard Veritas Logo">
     </td>
     <td>
