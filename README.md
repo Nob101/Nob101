@@ -45,7 +45,7 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 
   <tr>
     <td width="100px" align="center" valign="top">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvard_University_logo.svg/150px-Harvard_University_logo.png" width="70" alt="Harvard Veritas Logo">
+     <img src="assets/harvard_logo.png" width="70" alt="Harvard Logo">
     </td>
     <td>
       <strong>CS50's Introduction to Computer Science</strong><br>
