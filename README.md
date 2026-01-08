@@ -4,7 +4,7 @@
 * 🚀 **HTL Pinkafeld:** Ich befinde mich derzeit im Abschlussjahr für **Informatik (Computer Science)**.
 * 🏗️ **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend) sowie Datenstrukturierung mit **Oracle**, **SQLite**, **MySQL** und **PostgreSQL**.
 * 📜 **Zertifizierung:** Harvard **CS50x** & **Cisco CCNA**.
-*  🛠️ **Methodik:** Projektmanagement & Workflow-Optimierung (Jira/Git).
+* 🛠️ **Methodik:** Projektmanagement & Workflow-Optimierung (Jira/Git).
 * 🌱 **Stack:** Vertiefung meiner Kenntnisse in **Webentwicklung** und **Netzwerktechnik**.
 
 
