@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Nob101
+
 
 ### 🎓 Bildung & Aktueller Fokus
-* 🚀 **HTL Pinkafeld:** Ich befinde mich derzeit im Abschlussjahr für **Informatik (Computer Science)**.
-* 🏗️ **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend) sowie Datenstrukturierung mit **Oracle**, **SQLite**, **MySQL** und **PostgreSQL**.
-* 📜 **Zertifizierung:** Harvard **CS50x** & **Cisco CCNA**.
-* 🛠️ **Methodik:** Projektmanagement & Workflow-Optimierung (Jira/Git).
-* 🌱 **Stack:** Vertiefung meiner Kenntnisse in **Webentwicklung** und **Netzwerktechnik**.
+*  **HTL Pinkafeld:** Ich befinde mich derzeit im Abschlussjahr für **Informatik (Computer Science)**.
+*  **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend) sowie Datenstrukturierung mit **Oracle**, **SQLite**, **MySQL** und **PostgreSQL**.
+*  **Zertifizierung:** Harvard **CS50x** & **Cisco CCNA**.
+*  **Methodik:** Projektmanagement & Workflow-Optimierung (Jira/Git).
+*  **Stack:** Vertiefung meiner Kenntnisse in **Webentwicklung** und **Netzwerktechnik**.
 
 
 ---
@@ -23,19 +23,19 @@
 
 ### 🏠 Home Lab & Autodidaktische Projekte
 Neben der Schule brenne ich für das "Basteln" an eigenen Systemen. Das hat mir ein tiefes Verständnis für Linux und Containerisierung vermittelt:
-* 🐳 **Self-Hosting:** Verwaltung eines Home-Media-Servers mittels **OMV**, **Docker** und **Portainer**. **[Plex** und **Pi-hole]**.
-* 🤖 **Hardware:** Erfahrung mit **Raspberry Pi** & **Arduino** (z.B. automatisierte Lüftersteuerung).
-* 🛠️ **DevOps Basics:** Sicherer Umgang mit GitHub Workflows und Linux-Umgebungen.
+*  **Self-Hosting:** Verwaltung eines Home-Media-Servers mittels **OMV**, **Docker** und **Portainer**. **[Plex** und **Pi-hole]**.
+*  **Hardware:** Erfahrung mit **Raspberry Pi** & **Arduino** (z.B. automatisierte Lüftersteuerung).
+*  **DevOps Basics:** Sicherer Umgang mit GitHub Workflows und Linux-Umgebungen.
 
 ---
 
 ### 🛠️ Über mich & Mission
 Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch digitale Lösungen zu lösen – und zwar ganzheitlich von der ersten Idee bis zur finalen Umsetzung.
 
-* 👀 **Interessen:** Ich bin ein Autodidakt und lerne ständig neue Technologien aus reiner neugierde heraus.
+*  **Interessen:** Ich bin ein Autodidakt und lerne ständig neue Technologien aus reiner neugierde heraus.
   > *"Education isn't something you can finish"* - Isaac Asimov
-* 💞️ **Zusammenarbeit:** Ich suche den Austausch mit Gleichgesinnten, sei es in Open-Source-Projekten oder als Lern-Buddy.
-* 💬 **Dialog:** Ich schätze semantische Gespräche, die die grauen Zellen anregen und neue Perspektiven eröffnen.
+*  **Zusammenarbeit:** Ich suche den Austausch mit Gleichgesinnten, sei es in Open-Source-Projekten oder als Lern-Buddy.
+*  **Dialog:** Ich schätze semantische Gespräche, die die grauen Zellen anregen und neue Perspektiven eröffnen.
 
 ---
 
@@ -84,6 +84,6 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 * **Fun Fact:** Guter Code ist wie ein guter Witz: Musst du ihn erklären, ist er schlecht.
 
 <!---
-Nob101/Nob101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nob101/Nob101 is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
