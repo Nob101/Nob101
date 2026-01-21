@@ -2,10 +2,17 @@
 
 ### 🎓 Bildung & Aktueller Fokus
 *  **HTL Pinkafeld:** Ich befinde mich derzeit im Abschlussjahr für **Informatik (Computer Science)**.
-*  **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend) sowie Datenstrukturierung mit **Oracle**, **SQLite**, **MySQL** und **PostgreSQL**.
+*  **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend), Netzwerktechnik als Schwerpunkt **Cisco**, sowie Datenbanken **Oracle**, **SQLite** und **PostgreSQL**.
 *  **Zertifizierung:** Harvard **CS50x** & **Cisco CCNA**.
 *  **Methodik:** Projektmanagement & Workflow-Optimierung (Jira/Git).
-*  **Stack:** Vertiefung meiner Kenntnisse in **Webentwicklung** und **Netzwerktechnik**.
+* 
+*  **Interessen & Vertiefung:**
+    * [ ] Architektur System- & Software-Design (Skalierbarkeit & Effizienz)
+    * [ ] Moderne Webentwicklung & agiler Workflow (Full-Stack)
+    * [ ] Fortgeschrittene Konzepte bei der Netzwerktechnik
+    * [ ] Organisation und Planung
+    * [ ] Performance-Optimierung & Refactoring bestehender Systeme
+    * [ ] Lösungsorientierte Ansätze zur Prozessoptimierung
 
 
 ---
@@ -15,8 +22,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <br>
+  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" /> <br>
+  
 </p>
 
 ---
@@ -29,12 +41,17 @@ Neben der Schule brenne ich für das "Basteln" an eigenen Systemen. Das hat mir 
 
 ---
 
-### 🛠️ Über mich & Mission
-Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch digitale Lösungen zu lösen – und zwar ganzheitlich von der ersten Idee bis zur finalen Umsetzung.
+### 🛠️ Über mich
+Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch digitale Möglichkeiten zu lösen.
 
-*  **Interessen:** Ich bin ein Autodidakt und lerne ständig neue Technologien aus reiner neugierde heraus.
+* **Analytisches Denken:** Ich liebe es, bestehende Prozesse zu analysieren und zu optimieren um die Wartbearkeit zu erhöhen (DRY, SoC).
+* **Lösungsorientierung:** Egal ob Legacy-Code oder neue Technologien – für mich steht das Ergebnis und die User-Experience im Vordergrund.
+* **Werte:** Sicherheit (Security-by-Design), saubere Dokumentation und ein hoher Anspruch an die Code-Qualität sind für mich Standard.
+  
+*  **Interessen:** Ich bin ein Autodidakt und lerne gerne neue & auch altbewährte Technologien aus reiner Neugierde heraus.
   > *"Education isn't something you can finish"* - Isaac Asimov
 *  **Zusammenarbeit:** Ich suche den Austausch mit Gleichgesinnten, sei es in Open-Source-Projekten oder als Lern-Buddy.
+*  
 *  **Dialog:** Ich schätze semantische Gespräche, die die grauen Zellen anregen und neue Perspektiven eröffnen.
 
 ---
