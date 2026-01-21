@@ -5,7 +5,7 @@
 *  **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend), Netzwerktechnik als Schwerpunkt **Cisco**, sowie Datenbanken **Oracle**, **SQLite** und **PostgreSQL**.
 *  **Zertifizierung:** Harvard **CS50x** & **Cisco CCNA**.
 *  **Methodik:** Projektmanagement & Workflow-Optimierung (Jira/Git).
-* 
+
 *  **Interessen & Vertiefung:**
     * [ ] Architektur System- & Software-Design (Skalierbarkeit & Effizienz)
     * [ ] Moderne Webentwicklung & agiler Workflow (Full-Stack)
@@ -54,11 +54,12 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
    * **Sprachaffinität:** Ich interessiere mich für Sprachen, um neue Perspektiven zu gewinnen.
    *    *Spanisch, Italienisch, Französisch:* Fokus auf Basics & interkulturelles Verständnis
    *    *Japanisch:* Grundkenntnisse (VHS A1) aus persönlichem Interesse.
-  
+     
+  <br>
 
   > *"Education isn't something you can finish"* - Isaac Asimov
 
-  <hr>
+
 
 *  **Zusammenarbeit:** Ich suche den Austausch mit Gleichgesinnten, sei es in Open-Source-Projekten oder als Lern-Buddy.
 *  **Dialog:** Ich schätze semantische Gespräche, die die grauen Zellen anregen und neue Perspektiven eröffnen.
