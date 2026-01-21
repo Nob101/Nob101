@@ -35,23 +35,30 @@
 
 ### 🏠 Home Lab & Autodidaktische Projekte
 Neben der Schule brenne ich für das "Basteln" an eigenen Systemen. Das hat mir ein tiefes Verständnis für Linux und Containerisierung vermittelt:
-*  **Self-Hosting:** Verwaltung eines Home-Media-Servers mittels **OMV**, **Docker** und **Portainer**. **[Plex** und **Pi-hole]**.
-*  **Hardware:** Erfahrung mit **Raspberry Pi** & **Arduino** (z.B. automatisierte Lüftersteuerung).
-*  **DevOps Basics:** Sicherer Umgang mit GitHub Workflows und Linux-Umgebungen.
+*  **Self-Hosting:** Verwaltung eines Home-Media-Servers mittels **OMV** und **Plex** via **Docker** und **Portainer**. **[Pi-hole inklusive]**.
+*  **Hardware:** Erfahrung mit **Raspberry Pi** & **Arduino**.
+*  **DevOps Basics:** Sicherer Umgang mit Git, GitHub Workflows und Linux-Umgebungen.
 
 ---
 
 ### 🛠️ Über mich
 Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch digitale Möglichkeiten zu lösen.
 
-* **Analytisches Denken:** Ich liebe es, bestehende Prozesse zu analysieren und zu optimieren um die Wartbearkeit zu erhöhen (DRY, SoC).
+* **Analytisches Denken:** Ich liebe es, bestehende Prozesse zu analysieren und gegebenenfalls zu optimieren, um die Wartbarkeit zu erhöhen (DRY, SoC).
 * **Lösungsorientierung:** Egal ob Legacy-Code oder neue Technologien – für mich steht das Ergebnis und die User-Experience im Vordergrund.
 * **Werte:** Sicherheit (Security-by-Design), saubere Dokumentation und ein hoher Anspruch an die Code-Qualität sind für mich Standard.
+* **Arbeitsweise:** Agil (Scrum/Kanban), Fokus auf Clean Code & Dokumentation.
+* **Sprachen & Kultur:**
+   * **Deutsch:** Muttersprache
+   * **Englisch:** Matura
+   * **Sprachaffinität:** Ich interessiere mich für Sprachen, um neue Perspektiven zu gewinnen.
+   *    *Spanisch, Italienisch, Französisch:* Fokus auf Basics & interkulturelles Verständnis
+   *    *Japanisch:* Grundkenntnisse (VHS A1) aus persönlichem Interesse.
   
-*  **Interessen:** Ich bin ein Autodidakt und lerne gerne neue & auch altbewährte Technologien aus reiner Neugierde heraus.
+  
   > *"Education isn't something you can finish"* - Isaac Asimov
+
 *  **Zusammenarbeit:** Ich suche den Austausch mit Gleichgesinnten, sei es in Open-Source-Projekten oder als Lern-Buddy.
-*  
 *  **Dialog:** Ich schätze semantische Gespräche, die die grauen Zellen anregen und neue Perspektiven eröffnen.
 
 ---
@@ -92,12 +99,13 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 
 
 > [!NOTE]
-> **Kombinierte Expertise:** Fundierte Ausbildung in Softwareentwicklung (C, JS, SQL) ergänzt durch praxisnahes Wissen in Netzwerktechnik (CCNA) und Infrastruktur-Automatisierung (Docker/Linux).
+> **Full-Stack Developer mit Architektur-Verständnis:** Mein Fokus liegt auf der Entwicklung performanter Web-Applikationen mit modernem API-Design und einem Auge für UI/UX-Details
 
 ---
 
 ### ⚡ Quick Facts
-* **Pronomen:** Er / He / Him
+* **Fokus:** Full-Stack Development, API-Design & Systemarchitektur
+* **Tools:** Visual Studio Code, Git, GitHub, Docker, Linux, Jira
 * **Fun Fact:** Guter Code ist wie ein guter Witz: Musst du ihn erklären, ist er schlecht.
 
 <!---
