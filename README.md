@@ -55,15 +55,17 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
    *    *Spanisch, Italienisch, Französisch:* Fokus auf Basics & interkulturelles Verständnis
    *    *Japanisch:* Grundkenntnisse (VHS A1) aus persönlichem Interesse.
   
-  
+
   > *"Education isn't something you can finish"* - Isaac Asimov
+
+  <hr>
 
 *  **Zusammenarbeit:** Ich suche den Austausch mit Gleichgesinnten, sei es in Open-Source-Projekten oder als Lern-Buddy.
 *  **Dialog:** Ich schätze semantische Gespräche, die die grauen Zellen anregen und neue Perspektiven eröffnen.
 
 ---
 
-## 🎓 Ausbildung & 📜 Zertifizierungen
+## 📜 Zertifizierungen
 
 <table>
 
