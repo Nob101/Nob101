@@ -1,10 +1,13 @@
+> [!NOTE]
+> **Full-Stack Developer mit Architektur-Fokus:** Mein Fokus liegt auf performanten Web-Applikationen mit modernem API-Design und  UI/UX-Details - gestützt auf automatisierte Deployment-Prozesse, Container-Orchestrierung
+> (Docker) und Sicherer System-Architektur.
 
 
-### 🎓 Bildung & Aktueller Fokus
-*  **HTL Pinkafeld:** Ich befinde mich derzeit im Abschlussjahr für **Informatik (Computer Science)**.
-*  **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend), Netzwerktechnik als Schwerpunkt **Cisco**, sowie Datenbanken **Oracle**, **SQLite** und **PostgreSQL**.
+###  Bildung & Aktueller Fokus
+*  **HTL Pinkafeld:** Abschlussjahr für **Informatik (Computer Science)**.
+*  **Architektur & Full-Stack:** Fokus auf **JavaScript** (Frontend & Backend), Netzwerktechnik **Cisco**, sowie Datenbanken **Oracle**, **SQLite** und **PostgreSQL**.
 *  **Zertifizierung:** Harvard **CS50x** & **Cisco CCNA**.
-*  **Methodik:** Projektmanagement & Workflow-Optimierung (Jira/Git).
+*  **Methodik & Workflow:** Fortgeschrittene Projektsteuerung mit Jira und Git.
 
 *  **Interessen & Vertiefung:**
     * [ ] Architektur System- & Software-Design (Skalierbarkeit & Effizienz)
@@ -17,7 +20,7 @@
 
 ---
 
-### 💻 Tech Stack & Tools
+###  Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
@@ -35,7 +38,7 @@
 
 ---
 
-### 🏠 Home Lab & Autodidaktische Projekte
+###  Home Lab & Autodidaktische Projekte
 Neben der Schule brenne ich für das "Basteln" an eigenen Systemen. Das hat mir ein tiefes Verständnis für Linux und Containerisierung vermittelt:
 *  **Self-Hosting:** Verwaltung eines Home-Media-Servers mittels **OMV** und **Plex** via **Docker** und **Portainer**. **[Pi-hole inklusive]**.
 *  **Hardware:** Erfahrung mit **Raspberry Pi** & **Arduino**.
@@ -43,12 +46,12 @@ Neben der Schule brenne ich für das "Basteln" an eigenen Systemen. Das hat mir 
 
 ---
 
-### 🛠️ Über mich
+###  Über mich
 Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch digitale Möglichkeiten zu lösen.
 
-* **Analytisches Denken:** Ich liebe es, bestehende Prozesse zu analysieren und gegebenenfalls zu optimieren, um die Wartbarkeit zu erhöhen (DRY, SoC).
-* **Arbeitsweise:** Agil, mit fokus auf Clean Code & Dokumentation. Ich nutze Jira aktiv zur Strukturierung, Organisierung und Aufgabenteilung (Scrum/Kanban).
-* **Lösungsorientierung:** Egal ob Legacy-Code oder neue Technologien – für mich steht das Ergebnis und die User-Experience im Vordergrund.
+* **Analytisches Denken:** Ich liebe es, bestehende Prozesse zu analysieren und zu optimieren, um die Wartbarkeit und Usability zu erhöhen (DRY, SoC).
+* **Arbeitsweise:** Agil, mit fokus auf Clean Code & Dokumentation. Ich nutze **Jira** aktiv zur Strukturierung, Organisierung und Aufgabenteilung (Scrum/Kanban).
+* **Lösungsorientierung:** Egal ob Oldschool oder neue Technologien – für mich steht das Ergebnis und die User-Experience im Vordergrund.
 * **Werte:** Sicherheit (Security-by-Design), saubere Dokumentation und ein hoher Anspruch an die Code-Qualität sind für mich Standard.
 * **Sprachen & Kultur:**
    * **Deutsch:** Muttersprache
@@ -68,7 +71,7 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 
 ---
 
-## 📜 Zertifizierungen
+##  Zertifizierungen
 
 <table>
 
@@ -102,16 +105,23 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 
 
 
-
-> [!NOTE]
-> **Full-Stack Developer mit Architektur-Verständnis:** Mein Fokus liegt auf der Entwicklung performanter Web-Applikationen mit modernem API-Design und einem Auge für UI/UX-Details
-
 ---
 
-### ⚡ Quick Facts
+###  Quick Facts
 * **Fokus:** Full-Stack Development, API-Design & Systemarchitektur
 * **Tools:** Visual Studio Code, Git, GitHub, Docker, Linux, Jira
 * **Fun Fact:** Guter Code ist wie ein guter Witz: Musst du ihn erklären, ist er schlecht.
+
+````mermaid
+
+timeline
+    title   Von der ersten Bash-Zeile zur System-Architektur
+    2022/23 :  Einstieg : HTL Pinkafeld Start <br> Linux Basics & Bash Scripting <br> Erste Algorithmen <br> : Beginn mit Maturafächern DE / EN / AM 
+    2023/24 :  Fundament : Cisco CCNA (Netzwerktechnik) : <br> SQL Datenbanken (Oracle) : <br>  Einführung OOP & Web-Entwicklung (HTML, CSS, JS)
+    2024/25 :  Spezialisierung : Full-Stack Development (Node.js) : <br> Versionsverwaltung (Git) : <br> Agiles Projektmanagement (Jira) : <br>  Containerisierung (Docker)
+    2025/26 :  Abschlussjahr : Diplomarbeit (Abschluss) <br> Reife- & Diplomprüfung (Matura) <br> Matura: DE / EN / AM : <br> Fokus System-Architektur : <br> Technische-Matura NVS / DBI / SYP
+
+````
 
 <!---
 Nob101/Nob101 is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
