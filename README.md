@@ -41,7 +41,7 @@
 ###  Home Lab & Autodidaktische Projekte
 Neben der Schule brenne ich für das "Basteln" an eigenen Systemen. Das hat mir ein tiefes Verständnis für Linux und Containerisierung vermittelt:
 *  **Self-Hosting:** Verwaltung eines Home-Media-Servers mittels **OMV** und **Plex** via **Docker** und **Portainer**. **[Pi-hole inklusive]**.
-*  **Hardware:** Erfahrung mit **Raspberry Pi** & **Arduino**.
+*  **Hardware:** Erfahrung mit **Raspberry Pi**, **Arduino** & **Dell-Optiplex**.
 *  **DevOps Basics:** Sicherer Umgang mit Git, GitHub Workflows und Linux-Umgebungen.
 
 ---
