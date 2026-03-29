@@ -108,7 +108,7 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
     <td>
       <strong>Networking Basics</strong><br>
       Cisco Networking Academy • 2025<br>
-      <a href="assets/Networking_Basics_certificate_lu....pdf">
+      <a href="assets/Networking_Basics_certificate_lukas.pdf">
         <img src="https://img.shields.io/badge/Zertifikat-Ansehen-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Basics Cert">
       </a>
     </td>
