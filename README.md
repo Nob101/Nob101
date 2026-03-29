@@ -101,17 +101,15 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <a href="DEIN_CREDLY_BADGE_SHARE_LINK" target="_blank">
-        <img src="https://images.credly.com/images/deine-badge-bild-id/image.png" alt="Cisco Networking Basics Badge" width="80">
-      </a>
+ <tr>
+    <td width="100px" align="center">
+      <img src="assets/networking-basics.png" width="80" alt="Cisco Networking Basics Badge">
     </td>
     <td>
-      <b>Networking Basics (Badge + Certificate)</b><br>
+      <strong>Networking Basics</strong><br>
       Cisco Networking Academy • 2025<br>
-      <a href="assets/" target="_blank">
-        <img src="https://img.shields.io/badge/PDF_Zertifikat-Download-green" alt="Cisco Basics Certificate">
+      <a href="assets/Networking_Basics_certificate_lu....pdf">
+        <img src="https://img.shields.io/badge/Zertifikat-Ansehen-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Basics Cert">
       </a>
     </td>
   </tr>
