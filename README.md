@@ -132,7 +132,7 @@ timeline
     2022/23 :  Einstieg : HTL Pinkafeld Start <br> Linux Basics & Bash Scripting <br> Erste Algorithmen <br> : Beginn mit Maturafächern DE / EN / AM 
     2023/24 :  Fundament : Cisco CCNA (Netzwerktechnik) : <br> SQL Datenbanken (Oracle) : <br>  Einführung OOP & Web-Entwicklung (HTML, CSS, JS)
     2024/25 :  Spezialisierung : Full-Stack Development (Node.js) : <br> Versionsverwaltung (Git) : <br> Agiles Projektmanagement (Jira) : <br>  Containerisierung (Docker)
-    2025/26 :  Abschlussjahr : Diplomarbeit (Abschluss) <br> Reife- & Diplomprüfung (Matura) <br> Matura: DE / EN / AM : <br> Fokus System-Architektur : <br> Technische-Matura NVS / DBI / SYP
+    2025/26 :  Abschlussjahr : <br> Matura DE / EN / AM : Diplomarbeit (Abschluss) <br> Reife- & Diplomprüfung : <br> Fokus System-Architektur : <br> Technische-Matura NVS / DBI / SYP
 
 ````
 
