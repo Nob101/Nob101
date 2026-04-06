@@ -1,4 +1,6 @@
 > [!NOTE]
+>  **Scanner Personality | Tech Enthusiast | Lifelong Learner:** Computer Science Graduate & System Architect at heart with a background in Gastronomy. I don't just learn technologies; I master them.
+> 
 > **Full-Stack Developer mit Architektur-Fokus:** Mein Fokus liegt auf performanten Web-Applikationen mit modernem API-Design und  UI/UX-Details - gestützt auf automatisierte Deployment-Prozesse, Container-Orchestrierung
 > (Docker) und Sicherer System-Architektur.
 
