@@ -79,12 +79,12 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 
   <tr>
     <td width="100px" align="center">
-     <img src="assets/harvard_logo.jpg" width="70" alt="Harvard Logo">
+     <img src="./assets/harvard_logo.jpg" width="70" alt="Harvard Logo">
     </td>
     <td>
       <strong>CS50's Introduction to Computer Science</strong><br>
       Harvard University (via edX) • 2025<br>
-      <a href="assets/CS50x_certificate.pdf">
+      <a href="./assets/CS50x_certificate.pdf">
         <img src="https://img.shields.io/badge/Zertifikat-Verifiziert-red?style=flat-square&logo=harvard&logoColor=white" alt="CS50 Certificate">
       </a>
     </td>
@@ -97,7 +97,7 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
     <td>
       <strong>CCNA: Introduction to Networks</strong><br>
       Cisco Networking Academy • 2025<br>
-      <a href="assets/CCNA_Introduction_to_Networks.pdf">
+      <a href="./assets/CCNA_Introduction_to_Networks.pdf">
         <img src="https://img.shields.io/badge/Zertifikat-Ansehen-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certificate">
       </a>
     </td>
@@ -105,12 +105,12 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 
  <tr>
     <td width="100px" align="center">
-      <img src="assets/networking-basics.png" width="80" alt="Cisco Networking Basics Badge">
+      <img src="./assets/networking-basics.png" width="80" alt="Cisco Networking Basics Badge">
     </td>
     <td>
       <strong>Networking Basics</strong><br>
       Cisco Networking Academy • 2025<br>
-      <a href="assets/Networking_Basics_certificate_lukas.pdf">
+      <a href="./assets/Networking_Basics_certificate_lukas.pdf">
         <img src="https://img.shields.io/badge/Zertifikat-Ansehen-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Basics Cert">
       </a>
     </td>
