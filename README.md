@@ -40,11 +40,22 @@
 
 ---
 
-###  Home Lab & Autodidaktische Projekte
-Neben der Schule brenne ich für das "Basteln" an eigenen Systemen. Das hat mir ein tiefes Verständnis für Linux und Containerisierung vermittelt:
+###  Home Lab & System Architecture Projects
+Neben der Schule brenne ich für die Konzeption und Realisierung eigener Systeme. Dies vermittelt mir ein tiefes Verständnis für Systemarchitektur, automatisierte Prozesse und strategische IT-Planung: 
 *  **Self-Hosting:** Verwaltung eines Home-Media-Servers mittels **OMV** und **Plex** via **Docker** und **Portainer**. **[Pi-hole inklusive]**.
-*  **Hardware:** Erfahrung mit **Raspberry Pi**, **Arduino** & **Dell-Optiplex**.
-*  **DevOps Basics:** Sicherer Umgang mit Git, GitHub Workflows und Linux-Umgebungen.
+*  **Virtualization & Emulation:** Umsetzung diverser Emulatoren (Batocera, Retropi, Duckstation) zur funktionale Erweiterung der Infrastruktur.
+*  **Hardware Administration:** Integration und Wartung von Small-Form-Factor Workstations (MSI, Dell Optiplex), Single-Board-Computern (Raspberry PIs [24/7] Dauerbetrieb) sowie Programmierung von Mikrocontrollern (Arduino).
+*  **Technical Skills:** <br>
+  Sicherer Umgang mit:
+      * Git (Version Control) <br>
+      * GitHub Workflows <br>
+      * Linux-Umgebungen <br>
+      * Docker <br>
+      * Microsoft <br>
+      * VM Virtualbox <br>
+      * Database (RDBMS) <br>
+      * Programmierung <br>
+*  **Machine Learning & AI:** Theoretische Grundlagen der Datenanalyse und Modellierung (Fachliteratur) im Selbststudium.
 
 ---
 
