@@ -87,7 +87,6 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 ##  Zertifizierungen
 
 <table>
-
   <tr>
     <td width="100px" align="center">
      <img src="./assets/harvard_logo.jpg" width="70" alt="Harvard Logo">
@@ -95,41 +94,38 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
     <td>
       <strong>CS50's Introduction to Computer Science</strong><br>
       Harvard University (via edX) • 2025<br>
-      <a href="./assets/CS50x_certificate.pdf">
+      <a href="./assets/CS50x_certificate.pdf?raw=true">
         <img src="https://img.shields.io/badge/Zertifikat-Verifiziert-red?style=flat-square&logo=harvard&logoColor=white" alt="CS50 Certificate">
       </a>
     </td>
   </tr>
 
-<tr>
+  <tr>
     <td width="100px" align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="60" alt="Cisco Logo">
     </td>
     <td>
       <strong>CCNA: Introduction to Networks</strong><br>
       Cisco Networking Academy • 2025<br>
-      <a href="./assets/CCNA_Introduction_to_Networks.pdf">
+      <a href="./assets/CCNA_Introduction_to_Networks.pdf?raw=true">
         <img src="https://img.shields.io/badge/Zertifikat-Ansehen-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certificate">
       </a>
     </td>
   </tr>
 
- <tr>
+  <tr>
     <td width="100px" align="center">
       <img src="./assets/networking-basics.png" width="80" alt="Cisco Networking Basics Badge">
     </td>
     <td>
       <strong>Networking Basics</strong><br>
       Cisco Networking Academy • 2026<br>
-      <a href="./assets/Networking_Basics_certificate_lukas.pdf">
+      <a href="./assets/Networking_Basics_certificate_lukas.pdf?raw=true">
         <img src="https://img.shields.io/badge/Zertifikat-Ansehen-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Basics Cert">
       </a>
     </td>
   </tr>
-  
 </table>
-
-
 
 ---
 
@@ -138,16 +134,14 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
 * **Tools:** Visual Studio Code, Git, GitHub, Docker, Linux, Jira
 * **Fun Fact:** Guter Code ist wie ein guter Witz: Musst du ihn erklären, ist er schlecht.
 
-````mermaid
+###  Werdegang & Meilensteine
 
-timeline
-    title   Von der ersten Bash-Zeile zur System-Architektur
-    2022/23 :  Einstieg : HTL Pinkafeld Start <br> Linux Basics & Bash Scripting <br> Erste Algorithmen <br> : Beginn mit Maturafächern DE / EN / AM 
-    2023/24 :  Fundament : Cisco CCNA (Netzwerktechnik) : <br> SQL Datenbanken (Oracle) : <br>  Einführung OOP & Web-Entwicklung (HTML, CSS, JS)
-    2024/25 :  Spezialisierung : Full-Stack Development (Node.js) : <br> Versionsverwaltung (Git) : <br> Agiles Projektmanagement (Jira) : <br>  Containerisierung (Docker)
-    2025/26 :  Abschlussjahr : <br> Matura DE / EN / AM : Diplomarbeit (Abschluss) <br> Reife- & Diplomprüfung : <br> Fokus System-Architektur : <br> Technische-Matura NVS / DBI / SYP
-
-````
+| Jahr | Phase | Fokus & Highlights |
+| :--- | :--- | :--- |
+| **2022/23** | **Einstieg** | HTL Pinkafeld Start • Linux Basics & Bash Scripting • Erste Algorithmen • Beginn mit Maturafächern (DE / EN / AM) |
+| **2023/24** | **Fundament** | Cisco CCNA (Netzwerktechnik) • SQL Datenbanken (Oracle) • Einführung OOP & Web-Entwicklung (HTML, CSS, JS) |
+| **2024/25** | **Spezialisierung** | Full-Stack Development (Node.js) • Versionsverwaltung (Git) • Agiles Projektmanagement (Jira) • Containerisierung (Docker) |
+| **2025/26** | **Abschlussjahr** | Diplomarbeit & Abschluss • Reife- & Diplomprüfung • Fokus System-Architektur • Technische Matura (NVS / DBI / SYP) |
 
 <!---
 Nob101/Nob101 is a  special  repository because its `README.md` (this file) appears on your GitHub profile.
