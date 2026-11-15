@@ -125,6 +125,19 @@ Ich bin leidenschaftlich daran interessiert, **reale Problemstellungen** durch d
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td width="100px" align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="60" alt="Cisco Logo">
+    </td>
+    <td>
+      <strong>Introduction to Modern AI</strong><br>
+      Cisco Networking Academy • 2026<br>
+      <a href="./assets/Introduction_to_modern_AI_certificat.pdf?raw=true">
+        <img src="https://img.shields.io/badge/Zertifikat-Ansehen-blue?style=flat-square&logo=cisco&logoColor=white" alt="Cisco AI Certificate">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
